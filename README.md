@@ -3,92 +3,61 @@
 <h3 align="center">🚀 Full Stack Developer | Backend Engineer | Flutter Developer | ML Enthusiast</h3>
 
 <p align="center">
-  🚀 Building production-ready systems • ⚡ Scalable backend architecture • 🤖 ML-powered applications
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="(add-linkedin)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:(paswanaditya256@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+  Building scalable systems • Backend architecture • ML-powered apps
 </p>
 
 ---
 
 ## 🧠 Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects (Real-World Systems)
 
-### 🔹 🚖 Cab Booking Backend System
-> Scalable backend system for cab booking with authentication & booking flow  
-
-🛠 **Tech:** Node.js, Express, MongoDB  
-🔗 https://github.com/aditya6789/vroter_cab_backend  
+- 🚖 **Cab Booking Backend** → Scalable booking system (Node.js, Express, MongoDB)  
+- 🌍 **Multi-Role Platform** → Customer + Vendor + Backend ecosystem (Flutter + Node.js)  
+- 🤖 **Recommendation System** → Hybrid ML model (Python)
 
 ---
 
-### 🔹 🌍 Vrhaman (Full Ecosystem)
-> Multi-role system with Customer App, Vendor App & Backend  
-
-🛠 **Tech:** Flutter, Node.js  
-
-🔗 Backend: https://github.com/aditya6789/vrhaman-backend  
-🔗 Customer: https://github.com/aditya6789/vrhaman-customer  
-🔗 Vendor: https://github.com/aditya6789/vrhaman-vendor  
-
----
-
-### 🔹 🤖 Recommendation System (ML)
-> Intelligent recommendation engine using hybrid models  
-
-🛠 **Tech:** Python, Machine Learning  
-
-🔗 (Add repo link here)
-
----
-
-## ⚙️ What I Do
-
-- 🏗️ Design scalable backend architectures  
-- 📱 Build cross-platform apps using Flutter  
-- 🔄 Develop full-stack production systems  
-- 🤖 Work on ML-based intelligent systems  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6789&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6789&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Current Focus
 
-- 🚀 Advanced System Design  
-- ⚡ High-performance backend systems  
-- 🤖 Recommendation Systems (ML)  
-- 🌐 Full-stack production apps  
+- ⚡ Scalable Backend Systems  
+- 🧠 System Design  
+- 🤖 Recommendation Systems  
+- 🌐 Full Stack Production Apps  
 
 ---
 
-## 💡 Fun Fact
+## 🌐 Connect
 
-> I don’t just write code, I build systems that scale 🚀
+<p align="center">
+  <a href="(add-linkedin)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:(add-email)">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  ⚡ "I don’t just write code, I build scalable systems"
+</p>
