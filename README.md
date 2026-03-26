@@ -1,96 +1,94 @@
-# Hi 👋, I'm Aditya
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 
-🚀 Full Stack Developer | Backend Engineer | Flutter Developer | ML Enthusiast  
+<h3 align="center">🚀 Full Stack Developer | Backend Engineer | Flutter Developer | ML Enthusiast</h3>
 
-I design and build scalable systems, real-world applications, and intelligent solutions.  
-Focused on backend architecture, system design, and machine learning systems.
+<p align="center">
+  🚀 Building production-ready systems • ⚡ Scalable backend architecture • 🤖 ML-powered applications
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="(add-linkedin)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:(paswanaditya256@gmail.com)">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Backend Development
-- Node.js, Express.js, TypeScript
-- REST API Design, Authentication Systems
-- Scalable Architecture & System Design
+<p align="center">
 
-### 🗄️ Databases
-- MongoDB
-- PostgreSQL (basic)
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python" />
 
-### 📱 Mobile Development
-- Flutter (Dart)
-- Cross-platform app development
-
-### 🌐 Frontend Development
-- React.js
-- Next.js
-
-### 🤖 Machine Learning
-- Python
-- Recommendation Systems (Collaborative + Content-Based + Hybrid Models)
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Cab Booking Backend System
-- Scalable backend system for cab booking
-- Features: Authentication, Booking Flow, APIs
-- Built with Node.js, Express, MongoDB
+### 🔹 🚖 Cab Booking Backend System
+> Scalable backend system for cab booking with authentication & booking flow  
 
-👉 https://github.com/aditya6789/vroter_cab_backend
-
----
-
-### 🔹 Vrhaman (Full Ecosystem)
-- Customer App (Flutter)
-- Vendor App (Flutter)
-- Backend System (Node.js)
-
-👉 Backend: https://github.com/aditya6789/vrhaman-backend  
-👉 Customer App: https://github.com/aditya6789/vrhaman-customer  
-👉 Vendor App: https://github.com/aditya6789/vrhaman-vendor  
+🛠 **Tech:** Node.js, Express, MongoDB  
+🔗 https://github.com/aditya6789/vroter_cab_backend  
 
 ---
 
-### 🔹 Recommendation System (ML)
-- User-based & Item-based Collaborative Filtering
-- Content-based filtering using metadata
-- Hybrid recommendation model
-- Built using Python (ML)
+### 🔹 🌍 Vrhaman (Full Ecosystem)
+> Multi-role system with Customer App, Vendor App & Backend  
 
-👉 (Add repo link here)
+🛠 **Tech:** Flutter, Node.js  
+
+🔗 Backend: https://github.com/aditya6789/vrhaman-backend  
+🔗 Customer: https://github.com/aditya6789/vrhaman-customer  
+🔗 Vendor: https://github.com/aditya6789/vrhaman-vendor  
 
 ---
 
-## ⚙️ What I Work On
+### 🔹 🤖 Recommendation System (ML)
+> Intelligent recommendation engine using hybrid models  
 
-- Designing scalable backend systems
-- Building real-world apps (multi-role systems)
-- Learning advanced system design
-- Developing ML-based intelligent systems
+🛠 **Tech:** Python, Machine Learning  
+
+🔗 (Add repo link here)
+
+---
+
+## ⚙️ What I Do
+
+- 🏗️ Design scalable backend architectures  
+- 📱 Build cross-platform apps using Flutter  
+- 🔄 Develop full-stack production systems  
+- 🤖 Work on ML-based intelligent systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: 
-- 📧 Email: paswanaditya256@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6789&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Current Focus
 
-- Advanced System Design
-- High-performance backend systems
-- Recommendation Systems (ML)
-- Full-stack production apps
+- 🚀 Advanced System Design  
+- ⚡ High-performance backend systems  
+- 🤖 Recommendation Systems (ML)  
+- 🌐 Full-stack production apps  
+
+---
+
+## 💡 Fun Fact
+
+> I don’t just write code, I build systems that scale 🚀
 
 ---
