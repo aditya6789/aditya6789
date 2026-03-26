@@ -81,8 +81,8 @@ Focused on backend architecture, system design, and machine learning systems.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
+- 💼 LinkedIn: 
+- 📧 Email: paswanaditya256@gmail.com
 
 ---
 
