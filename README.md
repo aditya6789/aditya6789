@@ -39,7 +39,6 @@
 
 ### GitHub activity
 
-### GitHub activity
 
 <div align="center">
 
