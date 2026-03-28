@@ -6,10 +6,11 @@
 
 <img src="https://img.shields.io/badge/Focus-Scalable_Backends-0D1117?style=for-the-badge&logo=serverless&logoColor=7C3AED&labelColor=161B22" />
 <img src="https://img.shields.io/badge/Stack-Node_%E2%80%A2_Go_%E2%80%A2_Flutter_%E2%80%A2_Python-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Cloud-AWS_%E2%80%A2_Docker_%E2%80%A2_K8s-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=161B22" />
 
 <br/><br/>
 
-*Backend architecture · Production-ready APIs · ML-powered products*
+*Backend architecture · Production-ready APIs · Cloud & containers · ML-powered products*
 
 </div>
 
@@ -19,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python,aws,docker,kubernetes&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -40,12 +41,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6789&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" />
+
+</td>
+<td width="50%" valign="top">
+
+<img width="100%" alt="Git streak" src="https://streak-stats.demolab.com/?user=aditya6789&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" alt="Profile details" />
+<img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" />
 
 </div>
 
@@ -55,6 +68,7 @@
 
 - Scalable backend systems & APIs  
 - **Go** for high-concurrency services  
+- **AWS**, **Docker**, **Kubernetes** for shipping & running in production  
 - System design & reliability  
 - Recommendation / ranking systems  
 - End-to-end production apps  
@@ -68,7 +82,7 @@
 <a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:paswanaditya256@gmail.com">
+<a href="mailto:you@example.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
