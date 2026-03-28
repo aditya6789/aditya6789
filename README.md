@@ -39,26 +39,11 @@
 
 ### GitHub activity
 
+### GitHub activity
+
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" />
-
-</td>
-<td width="50%" valign="top">
-
-<img width="100%" alt="Git streak" src="https://streak-stats.demolab.com/?user=aditya6789&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" alt="GitHub profile summary" />
 
 </div>
 
