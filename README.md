@@ -1,63 +1,85 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<div align="center">
 
-<h3 align="center">🚀 Full Stack Developer | Backend Engineer | Flutter Developer | ML Enthusiast</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya;Full+Stack+%E2%80%A2+Backend+%E2%80%A2+Flutter;Building+scalable+systems" alt="Typing SVG" />
 
-<p align="center">
-  Building scalable systems • Backend architecture • ML-powered apps
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/Focus-Scalable_Backends-0D1117?style=for-the-badge&logo=serverless&logoColor=7C3AED&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Stack-Node_%E2%80%A2_Go_%E2%80%A2_Flutter_%E2%80%A2_Python-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=161B22" />
 
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python" />
-</p>
+<br/><br/>
 
----
+*Backend architecture · Production-ready APIs · ML-powered products*
 
-## 🚀 Projects (Real-World Systems)
-
-- 🚖 **Cab Booking Backend** → Scalable booking system (Node.js, Express, MongoDB)  
-- 🌍 **Multi-Role Platform** → Customer + Vendor + Backend ecosystem (Flutter + Node.js)  
-- 🤖 **Recommendation System** → Hybrid ML model (Python)
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+### Tech I work with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6789&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,ts,mongodb,postgres,flutter,dart,react,nextjs,python&theme=dark" alt="Tech stack" />
+
+</div>
 
 ---
 
-## 🔥 Current Focus
+### Featured work
 
-- ⚡ Scalable Backend Systems  
-- 🧠 System Design  
-- 🤖 Recommendation Systems  
-- 🌐 Full Stack Production Apps  
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="(add-linkedin)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:(add-email)">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+| | |
+|:---:|:---|
+| **Cab booking backend** | Scalable booking flows — Node.js, Express, MongoDB |
+| **Multi-role platform** | Customer + vendor + APIs — Flutter + Node.js |
+| **Recommendation system** | Hybrid ML pipeline — Python |
+| **Realtime chat / messaging** | Concurrent connections, WebSockets — Go |
 
 ---
 
-<p align="center">
-  ⚡ "I don’t just write code, I build scalable systems"
-</p>
+### GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya6789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6789&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya6789&theme=tokyonight" alt="Profile details" />
+
+</div>
+
+---
+
+### Right now
+
+- Scalable backend systems & APIs  
+- **Go** for high-concurrency services  
+- System design & reliability  
+- Recommendation / ranking systems  
+- End-to-end production apps  
+
+---
+
+### Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:paswanaditya256@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>⚡ I don’t just ship code — I design systems that scale.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=100&section=footer" width="100%" alt="" />
+
+</div>
